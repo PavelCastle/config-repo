@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to Bank account related PROD APIs"
+  contactDetails:
+    name: "Arya Stark - Winterfell lady "
+    email: "arya.stark@winterfel.com"
+  onCallSupport:
+    - (333) 847-1234
+    - (333) 284-1345

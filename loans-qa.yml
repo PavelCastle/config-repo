@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+loans:
+  message: "Welcome to Bank LOANS related QA APIs"
+  contactDetails:
+    name: "Jaime Lanister - kings killer"
+    email: "jm.lntr@casterly.rock.com"
+  onCallSupport:
+    - (258) 875-0334
+    - (348) 964-2457

@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+cards:
+  message: "Welcome to Bank CARDS related QA APIs"
+  contactDetails:
+    name: "Dyneris Targaryen - Mother of Dragons"
+    email: "dyn.tgn@dragon.stone.com"
+  onCallSupport:
+    - (192) 459-1234
+    - (293) 032-1345

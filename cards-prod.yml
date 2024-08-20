@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+cards:
+  message: "Welcome to Bank CARDS related PROD APIs"
+  contactDetails:
+    name: "Viseris Targaryen - NONE"
+    email: "vsr.tgn@dragon.stone.com"
+  onCallSupport:
+    - (192) 422-1234
+    - (293) 875-1345

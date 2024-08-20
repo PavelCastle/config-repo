@@ -1,0 +1,12 @@
+build:
+  version: "1.0"
+
+cards:
+  message: "Welcome to Bank CARDS related LOCAL APIs"
+  contactDetails:
+    name: "Rynira Targaryen - Queen of Dragons"
+    email: "ryn.tgn@dragon.stone.com"
+  onCallSupport:
+    - (192) 459-1234
+    - (293) 032-1345
+

@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+loans:
+  message: "Welcome to Bank LOANS related LOCAL APIs"
+  contactDetails:
+    name: "Tyron Lanister - the gnome"
+    email: "trn.lntr@casterly.rock.com"
+  onCallSupport:
+    - (432) 345-5467
+    - (233) 764-1245

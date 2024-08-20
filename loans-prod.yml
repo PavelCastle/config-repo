@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+loans:
+  message: "Welcome to Bank LOANS related PROD APIs"
+  contactDetails:
+    name: "Sersei Lanister - Mother Queen"
+    email: "srs.lntr@casterly.rock.com"
+  onCallSupport:
+    - (987) 758-2367
+    - (234) 238-9496
