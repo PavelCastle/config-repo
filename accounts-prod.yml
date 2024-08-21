@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to Bank account related PROD APIs"
   contactDetails:
     name: "Arya Stark - Winterfell lady "
-    email: "arya.stark@winterfel.com"
+    email: "f4a989e884ed76d0d2d9ed7e3d56f7f4212bf6cd3759e2ba8464e650d00107629121f0b2542f4d5c7bc339dc67e0a685"
   onCallSupport:
     - (333) 847-1234
     - (333) 284-1345
