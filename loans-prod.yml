@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 loans:
-  message: "Welcome to Bank LOANS related PROD APIs"
+  message: "Welcome to Bank LOANS related PROD Docker APIs"
   contactDetails:
     name: "Sersei Lanister - Mother Queen"
     email: "srs.lntr@casterly.rock.com"
