@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to Bank account related local APIs"
+  message: "Welcome to Bank account related local default APIs"
   contactDetails:
     name: "John Snow - night watcher"
     email: "john.snow@winterfel.com"
